@@ -1,0 +1,3 @@
+[submodule "src/main/java/bow"]
+	path = src/main/java/bow
+	url = https://github.com/bow4290/libbow.git

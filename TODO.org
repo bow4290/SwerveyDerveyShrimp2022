@@ -1,0 +1,3 @@
+* I don't know how to use markdown
+* TODO Find a good spot for bow lib
+Is src/main/java/bow good? should the robot code be in bow/robot and lib in bow/lib? Something else? (254 has com/team254/[lib,frc20XX])
